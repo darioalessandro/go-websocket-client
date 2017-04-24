@@ -1,0 +1,7 @@
+memo = "9bb5473e8ddf72048ad72d7c6f9237578049f8f45af05f45123fd79bf9117d86"
+
+[[projects]]
+  name = "github.com/gorilla/websocket"
+  packages = ["."]
+  revision = "3ab3a8b8831546bd18fd182c20687ca853b2bb13"
+  version = "v1.1.0"
